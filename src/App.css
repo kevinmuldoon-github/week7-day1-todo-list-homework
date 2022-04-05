@@ -13,9 +13,16 @@
   }
 }
 
+.highpriority {
+color:green;
+}
+
+.lowpriority {
+color:blue;
+}
+
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #87a0ec;
   display: flex;
   flex-direction: column;
   align-items: center;
